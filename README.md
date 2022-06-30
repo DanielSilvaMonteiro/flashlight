@@ -8,7 +8,7 @@ App desafio construindo um APP utilizando o sensor de movimento com React-native
 
 ## Conteúdo
 - Libs React-native-shake react-native-torch
-link:
+- link:
 https://drive.google.com/drive/folders/1-RfBJX5NwkgmXm-dMxFW9FHNqDmd1TWB
 - Stylesheet
 - Hook useState
